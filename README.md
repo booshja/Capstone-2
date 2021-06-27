@@ -2,15 +2,16 @@
 
 ## **About**
 
-_PaintingJoy_ ( Deployed [HERE](https://paintingjoy.art/) ) is a web app that is part Art Portfolio, part E-commerce, part custom CMS.
+### _PaintingJoy.art_
 
+( Deployed [HERE](https://paintingjoy.art/) ) is a web app that is part Art Portfolio, part E-commerce, part custom CMS.
+<br>
+<br>
 <br>
 
-# **Local Usage:**
+# **Local Usage**
 
-<br>
-
-### **Environmental Variables**:
+## **Environmental Variables**:
 
 This app uses the following environmental variables that you will need in order to run the app
 | ENV | Value |
@@ -22,21 +23,27 @@ This app uses the following environmental variables that you will need in order 
 | `NODE_ENV` | Whether the app is in production, developement, or testing |
 | `BCRYPT_WORK_FACTOR` | # of rounds of encryption for Bcrypt to use |
 
+<hr>
 <br>
 
-### **Testing**:
+## **Testing**:
 
 This app uses [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) for Smoke and Snapshot Tests, and [Jest](https://jestjs.io/) for unit testing. Tests can be run using `npm test`
 
+<hr>
 <br>
 
-### **Formatting/Linting/Pre-Commit Hooks**:
+## **Formatting/Linting/Pre-Commit Hooks**:
 
 This project uses pre-commit hooks with ESLint and Prettier.
 
 <br>
+<br>
+<br>
 
-### **Features**:
+# **General Information**
+
+## **Features**:
 
 _Browse Murals/General Art_: Browse through all the posts to see the artist's murals and other art.
 
@@ -46,16 +53,17 @@ _Custom CMS_: On the Admin side, I've created a custom CMS for the artist to man
 
 _Integration with Personal Image CDN_: The app uses Cloudflare's CDN to serve the images for the site, decreasing load time.
 
-<br>
+<hr>
 
-### **APIs**:
+## **APIs**:
 
 1. [Stripe API](https://api.setlist.fm/docs/1.0/index.html)
     - Process payments for the web store
 
+<hr>
 <br>
 
-### **Tech Stack**:
+## **Tech Stack**:
 
 -   JavaScript
 -   [React](https://reactjs.org/)
@@ -73,7 +81,8 @@ _Integration with Personal Image CDN_: The app uses Cloudflare's CDN to serve th
 -   [Surge](https://surge.sh/) (Static Front-End Deployment)
 -   [VSCode](https://code.visualstudio.com/)
 
----
+<hr>
+<br>
 
 ## **Support**
 
@@ -83,6 +92,8 @@ Reach out to me at the following places:
 -   Twitter: [@booshja](https://twitter.com/booshja)
 -   Email: [jacob.andes@gmail.com](mailto:jacob.andes@gmail.com)
 
----
+<hr>
+<br>
+<br>
 
 Copyright &#169; [Jacob Andes](jacobandes.dev), 2021
