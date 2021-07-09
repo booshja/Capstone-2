@@ -10,3 +10,5 @@ With custom domain:
 -   `surge ./`
 
 Should have CNAME/A records set up so Surge can use the domain
+
+**NOT USING SURGE, USING CLOUDFLARE**
