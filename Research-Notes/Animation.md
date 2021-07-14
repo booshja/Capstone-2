@@ -1,3 +1,5 @@
+Using Framer Motion for animations!
+
 [Framer Motion Website](https://www.framer.com/blog/posts/introducing-framer-motion/)
 
 [Docs](https://www.framer.com/support/)
