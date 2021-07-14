@@ -7,8 +7,9 @@ Could I? :
 
 -   send a request for all posts when admin clicks "edit feed"
 -   display those results with select buttons
+    -   Will need to extract images of carousel albums, skip any video media
 -   send a list of image urls/link urls to the database
--   call the list from the database when someone loads the app
+-   call the list from the database when ig-feed page loads
 
     -   could use a custom hook `useInstagram`
 
