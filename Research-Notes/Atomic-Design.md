@@ -11,3 +11,5 @@ Templates: groups of organisms stitched together to create a page - (example her
 Pages: the fully detailed fleshed out version of a template - (example here)[https://bradfrost.com/wp-content/uploads/2013/06/page1.jpg]
 
 ## Structuring of a Project:
+
+Basically use the same structure as above
